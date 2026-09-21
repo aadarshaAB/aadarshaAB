@@ -1,10 +1,5 @@
 <h1 align="center">Hi there, I'm Aadarsha 👋</h1>
-
-<h3 align="center">Data QA Engineer 🇳🇵 → Aspiring Data Engineer 📊</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+QA+Engineer+in+US+Healthcare+Industry;Learning+Data+Engineering%2C+one+commit+at+a+time;Building+with+Python+%2B+Claude+Code;Consistency+%3E+Motivation+%F0%9F%94%A5" alt="Typing SVG" />
-</p>
+<h3 align="center">Data QA Engineer 🇳🇵</h3>
 
 <p align="center">
   <a href="https://github.com/aadarshaAB">
@@ -12,27 +7,24 @@
   </a>
 </p>
 
----
+## About Me
 
-### 👋 About Me
+- Currently working as a **Data QA Engineer in the US healthcare industry**, based in Kathmandu, Nepal
+- Code mainly in **Python**, and working toward transitioning into a **Data Engineer** role
+- Use AI tools like **Claude Code** as part of my workflow to learn faster and build better
+- Build fun, smaller side projects alongside serious ones — just for learning and experimenting
+- After years of planning to start, I've finally committed to writing and shipping code consistently — this profile tracks that consistency
 
-- 🔬 I work as a **Data QA Engineer** in the **US healthcare industry**, based in **Kathmandu, Nepal**
-- 🐍 I code mainly in **Python**
-- 📈 I'm on a mission to grow into a **Data Engineer** — learning the path step by step
-- 🤖 I use **AI (Claude Code)** as a pair-programmer to learn faster and build smarter
-- 🎯 After years of "someday I'll start coding," I finally started **shipping real code** — and now I'm building a **daily commit streak** to stay consistent
-- 🎉 Not everything I build is serious — I make **fun side projects** too, just to learn and enjoy the process
-
----
-
-### 🚀 What I'm Currently Doing
+### Currently
 
 ```text
-🔭 Working On   : Data QA in healthcare, leveling up toward Data Engineering
-🌱 Learning     : SQL, Data Pipelines, ETL, Python for Data Engineering
-🤝 Collaborating: Open to learning with others on data-focused projects
-💬 Ask Me About : Data QA, Healthcare data, Python, learning with AI tools
-🔥 Goal 2026    : Build & maintain a consistent GitHub contribution streak
+Role            : Data QA Engineer — US Healthcare Industry
+Transitioning To: Data Engineering
+Learning Path   : SQL & Query Optimization → Data Modeling & Warehousing →
+                   ETL/ELT Pipelines (Airflow, dbt) → Big Data (Spark) →
+                   Cloud Data Platforms (AWS/GCP/Azure) → Orchestration & Docker
+Tools           : Python, SQL, Git, Claude Code (AI-assisted development)
+Current Goal    : Maintain a consistent daily GitHub contribution streak
 ```
 
 ---
@@ -62,17 +54,6 @@
 </p>
 
 > 💡 **Streak Rule I'm holding myself to:** Show up and commit *something* — even a small script, a note, or a bug fix — every single day. Small and consistent beats big and occasional.
-
----
-
-### 📌 Featured / Fun Projects
-
-<!-- Pin your repos on GitHub (Customize your pins → choose repos) and they'll auto-render here in the profile page, or list manually below -->
-
-| Project | Description | Status |
-|---|---|---|
-| 🧪 *Add your project* | Short one-line description | 🚧 In Progress |
-| 🎮 *Add a fun project* | Something you built just for fun/learning | ✅ Done |
 
 ---
 
