@@ -19,7 +19,6 @@
 
 ```text
 Role            : Data QA Engineer — US Healthcare Industry
-Transitioning To: Data Engineering
 Learning Path   : SQL & Query Optimization → Data Modeling & Warehousing →
                    ETL/ELT Pipelines (Airflow, dbt) → Big Data (Spark) →
                    Cloud Data Platforms (AWS/GCP/Azure) → Orchestration & Docker
