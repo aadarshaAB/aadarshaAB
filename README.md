@@ -43,18 +43,18 @@ Current Goal    : Deepen data engineering skills while strengthening
 
 ---
 
-### 🔥 Streak & Stats
+### 🐍 Contributions, Eaten Alive
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aadarshaAB/aadarshaAB/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake eating my GitHub contributions" />
+  <img src="https://raw.githubusercontent.com/aadarshaAB/aadarshaAB/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake eating my GitHub contributions" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aadarshaAB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=aadarshaAB&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadarshaAB&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
-
-> 💡 **Streak Rule I'm holding myself to:** Show up and commit *something* — even a small script, a note, or a bug fix — every single day. Small and consistent beats big and occasional.
+> 💡 **Rule I'm holding myself to:** Show up and commit *something* — even a small script, a note, or a bug fix — every single day. Small and consistent beats big and occasional. Feed the snake. 🐍
 
 ---
 
