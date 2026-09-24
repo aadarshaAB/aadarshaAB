@@ -11,9 +11,7 @@
 
 - Currently working as a **Data QA Engineer in the US healthcare industry**, based in Kathmandu, Nepal
 - Code mainly in **Python**, with a growing focus on data pipelines, data modeling, and building reliable, well-tested data systems
-- Use AI tools like **Claude Code** as part of my workflow to learn faster and build better
-- Build fun, smaller side projects alongside serious ones — just for learning and experimenting
-- After years of planning to start, I've finally committed to writing and shipping code consistently — this profile tracks that consistency
+- Build fun, smaller side projects alongside serious ones, for learning and experimenting
 
 ### Currently
 
@@ -30,7 +28,7 @@ Current Goal    : Deepen data engineering skills while strengthening
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -43,7 +41,7 @@ Current Goal    : Deepen data engineering skills while strengthening
 
 ---
 
-### 🐍 Contributions, Eaten Alive
+### Contributions, Eaten Alive
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/aadarshaAB/aadarshaAB/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake eating my GitHub contributions" />
@@ -54,11 +52,11 @@ Current Goal    : Deepen data engineering skills while strengthening
   <img src="https://github-readme-stats.vercel.app/api?username=aadarshaAB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
 </p>
 
-> 💡 **Rule I'm holding myself to:** Show up and commit *something* — even a small script, a note, or a bug fix — every single day. Small and consistent beats big and occasional. Feed the snake. 🐍
+>  **Rule I'm holding myself to:** Small and consistent beats big and occasional. 
 
 ---
 
-### 📫 Let's Connect
+###  Let's Connect
 
 <p align="left">
   <a href="https://github.com/aadarshaAB"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
