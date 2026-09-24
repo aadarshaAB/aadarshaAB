@@ -60,8 +60,9 @@ Current Goal    : Deepen data engineering skills while strengthening
 
 <p align="left">
   <a href="https://github.com/aadarshaAB"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <!-- Add LinkedIn, Twitter/X, Email etc. below the same way -->
-  <!-- <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
+  <a href="https://www.linkedin.com/in/aadarsha-bhattarai-6579ab278/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://medium.com/@aadarshabhattarai873"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <!-- Add Twitter/X, Email etc. below the same way -->
 </p>
 
 <p align="center"><i>"Consistency compounds. Every commit is a brick — I'm building the wall one day at a time." 🧱</i></p>
